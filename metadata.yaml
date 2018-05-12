@@ -1,0 +1,39 @@
+_repo: M-moires-du-duc-de-Saint-SimonSi-cle-de-Louis-XIV-la-r-gence-Louis-XV_17044
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taine, Hippolyte
+    aliases:
+    - Taine, H. A. (Hippolyte Adolphe)
+    - Graindorge, Frédéric-Thomas
+    - Graindorge, Frederic-Thomas
+    - Taine, Hippolyte Adolphe
+    birthdate: 1828
+    deathdate: 1893
+    gutenberg_agent_id: '969'
+    url: http://www.gutenberg.org/2009/agents/969
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Hippolyte_Taine
+    - http://fr.wikipedia.org/wiki/Hippolyte_Taine
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2005-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17044'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Louis XV, 1715-1774'
+- !lcsh 'France -- History -- Louis XIV, 1643-1715'
+- !lcc 'DC'
+- !lcsh 'France -- History -- Regency, 1715-1723'
+title: 'Mémoires du duc de Saint-Simon
+
+  Siècle de Louis XIV, la régence, Louis XV'
+url: http://www.gutenberg.org/ebooks/17044
