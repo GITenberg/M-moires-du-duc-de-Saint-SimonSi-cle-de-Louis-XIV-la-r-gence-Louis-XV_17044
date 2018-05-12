@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Hippolyte_Taine
     - http://fr.wikipedia.org/wiki/Hippolyte_Taine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17044#M-moires-du-duc-de-Saint-SimonSi-cle-de-Louis-XIV-la-r-gence-Louis-XV
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2005-11-11'
 gutenberg_type: Text
